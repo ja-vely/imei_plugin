@@ -77,7 +77,7 @@ public class ImeiPlugin implements MethodCallHandler, PluginRegistry.RequestPerm
             }
 
         } catch (Exception ex) {
-            result.success("unknown");
+//            result.success("unknown");
         }
     }
 
